@@ -56,4 +56,4 @@ Gain crossover frequency = 0.8979 rad/s
 
 Phase crossover frequency = 3.1623
 
-The system is stable
+The system is Stable.
